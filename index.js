@@ -2,7 +2,7 @@ function calcRank(vitorias, derrotas){
     return (vitorias - derrotas)
 }
 
-let saldoVitorias = calcRank(70,2)
+let saldoVitorias = calcRank(100,2)
 
 let nivel
 
